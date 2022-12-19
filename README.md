@@ -12,6 +12,8 @@ you can run also any dbms query in our website.
 for example - suppose you have to run this query in our website.
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/107188205/208363026-43d5227b-f47c-44c8-8b4f-18ef2def0e90.png">
 so output - 
+<img width="641" alt="Screenshot 2022-12-19 121130" src="https://user-images.githubusercontent.com/107188205/208364010-6f1f9f52-9069-451a-b856-dfcefc3a9fc9.png">
+
 
 we can also edit and delete cyclist in our database and also sort using cyclist_id, date and time.
 <img width="674" alt="Screenshot 2022-12-19 115927" src="https://user-images.githubusercontent.com/107188205/208362332-9ed4503d-95d8-427f-bd89-9ecc2167e8a5.png">
