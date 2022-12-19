@@ -8,6 +8,7 @@ now we can also insert new cyclist in our database.
 
 <img width="619" alt="Screenshot 2022-12-19 115708" src="https://user-images.githubusercontent.com/107188205/208361955-ed81c984-f8dd-47bb-9098-26bbbbe9d0e5.png">
 
+we can also edit and delete cyclist in our database and also sort using cyclist_id, date and time.
 <img width="674" alt="Screenshot 2022-12-19 115927" src="https://user-images.githubusercontent.com/107188205/208362332-9ed4503d-95d8-427f-bd89-9ecc2167e8a5.png">
 
 
